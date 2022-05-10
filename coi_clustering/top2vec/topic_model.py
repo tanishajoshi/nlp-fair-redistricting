@@ -1,8 +1,19 @@
+import subprocess
+"""
+subprocess.check_call([sys.executable, '-m', 'pip', 'install', 
+'top2vec'])
+subprocess.check_call([sys.executable, '-m', 'pip', 'install', 
+'top2vec[sentence_encoders]'])
+"""
+#subprocess.check_call([sys.executable, '-m', 'pip', 'install', 
+#'tensorflow tensorflow_hub tensorflow_text'])
 
 from top2vec import Top2Vec
 import os
 import csv
 import sys
+
+
 """
 Top2Vec is an algorithm for topic modeling and semantic search. It automatically 
 detects topics present in text and generates jointly embedded topic, document and 
@@ -68,12 +79,13 @@ print(topic_words, word_scores, topic_nums)
 
 #Search for topics most similar to a keyword (not sure abt this one)
 # topic_words, word_scores, topic_scores, topic_nums = model.search_topics(keywords=["health"], num_topics=5)
-
-topic_words, word_scores, topic_scores, topic_nums = model.search_topics()
+"""
 for topic in topic_nums:
+    print("reached here")
     model.generate_topic_wordcloud(topic)
 
-
-
-
-
+x = model.topic_vectors
+print("length = ", len(x), x)
+"""
+words, word_scores = model.similar_words(keywords=["businesses"], num_words=20)
+print(words, word_scores)

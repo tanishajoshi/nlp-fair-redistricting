@@ -1,0 +1,130 @@
+numrows=  808
+Number of topics discovered 3
+[595  32  21] [0 1 2]
+[['residents' 'neighborhood' 'community' 'county' 'communities'
+  'district' 'housing' 'area' 'population' 'town' 'homes' 'areas'
+  'public' 'kansas' 'city' 'springfield' 'local' 'school' 'state'
+  'schools' 'middle' 'north' 'jefferson' 'small' 'park' 'class' 'income'
+  'home' 'south' 'family' 'families' 'part' 'there' 'people' 'businesses'
+  'map' 'st' 'here' 'they' 'mostly' 'around' 'lot' 'their' 'to' 'work'
+  'this' 'where' 'other' 'for' 'the']
+ ['communities' 'community' 'areas' 'access' 'homes' 'schools' 'public'
+  'residents' 'neighborhood' 'businesses' 'local' 'school' 'county'
+  'population' 'area' 'town' 'families' 'housing' 'park' 'district'
+  'people' 'live' 'family' 'city' 'home' 'their' 'where' 'class' 'middle'
+  'income' 'kansas' 'st' 'there' 'high' 'into' 'around' 'in' 'north'
+  'mostly' 'small' 'by' 'out' 'but' 'with' 'some' 'work' 'map' 'our'
+  'they' 'not']
+ ['population' 'residents' 'county' 'district' 'public' 'communities'
+  'people' 'community' 'neighborhood' 'housing' 'town' 'homes' 'area'
+  'families' 'city' 'state' 'local' 'areas' 'there' 'who' 'school' 'map'
+  'north' 'kansas' 'the' 'their' 'schools' 'springfield' 'income' 'part'
+  'south' 'are' 'st' 'has' 'which' 'jefferson' 'many' 'but' 'live'
+  'businesses' 'access' 'home' 'middle' 'lot' 'around' 'they' 'is'
+  'family' 'here' 'class']] [[ 3.37175965e-01  3.36124241e-01  3.06478739e-01  2.89817214e-01
+   2.82528877e-01  2.79844940e-01  2.39528969e-01  2.20640838e-01
+   2.13429987e-01  2.12602913e-01  2.10733950e-01  1.95034444e-01
+   1.93915591e-01  1.90804660e-01  1.88878655e-01  1.85835451e-01
+   1.84506536e-01  1.69688329e-01  1.50683105e-01  1.49626628e-01
+   1.40544653e-01  1.35735959e-01  1.27116382e-01  1.18458837e-01
+   1.13039754e-01  1.09071210e-01  9.84901041e-02  9.61102918e-02
+   9.57204774e-02  8.66050944e-02  8.42342526e-02  8.40285271e-02
+   8.34643692e-02  7.84262270e-02  7.53522962e-02  7.42067173e-02
+   7.16418177e-02  6.59026429e-02  6.16149083e-02  6.04670458e-02
+   5.97040802e-02  5.68783544e-02  5.50895855e-02  5.39546907e-02
+   5.32363094e-02  5.31994477e-02  5.03963009e-02  4.92592268e-02
+   4.85621020e-02  4.67237346e-02]
+ [ 5.25553226e-01  3.37655187e-01  2.04123139e-01  1.96706802e-01
+   1.80856228e-01  1.73275620e-01  1.71872228e-01  1.54651344e-01
+   1.45775482e-01  1.29896000e-01  1.23270616e-01  1.18207790e-01
+   1.08495519e-01  1.08305201e-01  9.76785645e-02  9.70338881e-02
+   9.63385552e-02  8.97969157e-02  8.72906074e-02  7.44669512e-02
+   7.26673752e-02  6.13628253e-02  5.48781231e-02  5.26246428e-02
+   5.22142425e-02  5.13752587e-02  4.94849309e-02  4.91938964e-02
+   4.43056300e-02  3.20755690e-02  2.86820307e-02  2.74480078e-02
+   2.24759243e-02  2.21419856e-02  2.17981711e-02  2.06265859e-02
+   1.63367987e-02  1.12793520e-02  9.87156574e-03  5.16091473e-04
+  -3.27751157e-03 -6.57927804e-03 -6.83380198e-03 -6.96108118e-03
+  -9.67120193e-03 -1.10676493e-02 -1.13478042e-02 -1.50297675e-02
+  -1.81243420e-02 -2.49561649e-02]
+ [ 4.28520024e-01  3.23219180e-01  2.10120425e-01  2.04189494e-01
+   1.62464827e-01  1.59541488e-01  1.40800148e-01  1.29528850e-01
+   1.23801500e-01  1.08439662e-01  1.05338596e-01  9.66363698e-02
+   8.58742297e-02  8.42993110e-02  8.14331919e-02  6.27949238e-02
+   5.59669994e-02  5.30086979e-02  4.76264581e-02  4.74080667e-02
+   4.54129875e-02  4.53311689e-02  4.07437272e-02  3.56987715e-02
+   2.96144877e-02  2.86790393e-02  2.65131630e-02  2.50098482e-02
+   2.13309862e-02  1.82581395e-02  1.67917162e-02  1.42187029e-02
+   1.15939025e-02  6.75173383e-03  6.70261215e-03  1.64188538e-03
+  -1.62442960e-03 -3.19133047e-03 -6.10762835e-03 -6.95027318e-03
+  -8.10175017e-03 -8.32219422e-03 -8.50444008e-03 -1.03479689e-02
+  -1.08863395e-02 -1.25055145e-02 -1.28392326e-02 -1.36865433e-02
+  -1.85152330e-02 -2.47911382e-02]] [0 1 2]
+numrows=  808
+Number of topics discovered 3
+[595  32  21] [0 1 2]
+[['residents' 'neighborhood' 'community' 'county' 'communities'
+  'district' 'housing' 'area' 'population' 'town' 'homes' 'areas'
+  'public' 'kansas' 'city' 'springfield' 'local' 'school' 'state'
+  'schools' 'middle' 'north' 'jefferson' 'small' 'park' 'class' 'income'
+  'home' 'south' 'family' 'families' 'part' 'there' 'people' 'businesses'
+  'map' 'st' 'here' 'they' 'mostly' 'around' 'lot' 'their' 'to' 'work'
+  'this' 'where' 'other' 'for' 'the']
+ ['communities' 'community' 'areas' 'access' 'homes' 'schools' 'public'
+  'residents' 'neighborhood' 'businesses' 'local' 'school' 'county'
+  'population' 'area' 'town' 'families' 'housing' 'park' 'district'
+  'people' 'live' 'family' 'city' 'home' 'their' 'where' 'class' 'middle'
+  'income' 'kansas' 'st' 'there' 'high' 'into' 'around' 'in' 'north'
+  'mostly' 'small' 'by' 'out' 'but' 'with' 'some' 'work' 'map' 'our'
+  'they' 'not']
+ ['population' 'residents' 'county' 'district' 'public' 'communities'
+  'people' 'community' 'neighborhood' 'housing' 'town' 'homes' 'area'
+  'families' 'city' 'state' 'local' 'areas' 'there' 'who' 'school' 'map'
+  'north' 'kansas' 'the' 'their' 'schools' 'springfield' 'income' 'part'
+  'south' 'are' 'st' 'has' 'which' 'jefferson' 'many' 'but' 'live'
+  'businesses' 'access' 'home' 'middle' 'lot' 'around' 'they' 'is'
+  'family' 'here' 'class']] [[ 3.37176025e-01  3.36124301e-01  3.06478769e-01  2.89817244e-01
+   2.82528937e-01  2.79844940e-01  2.39528984e-01  2.20640868e-01
+   2.13429973e-01  2.12603033e-01  2.10733950e-01  1.95034415e-01
+   1.93915650e-01  1.90804780e-01  1.88878730e-01  1.85835451e-01
+   1.84506565e-01  1.69688404e-01  1.50683120e-01  1.49626642e-01
+   1.40544698e-01  1.35735974e-01  1.27116412e-01  1.18458852e-01
+   1.13039732e-01  1.09071240e-01  9.84901488e-02  9.61103290e-02
+   9.57205296e-02  8.66051316e-02  8.42342675e-02  8.40285495e-02
+   8.34644437e-02  7.84262195e-02  7.53523335e-02  7.42067620e-02
+   7.16418698e-02  6.59027100e-02  6.16149269e-02  6.04670718e-02
+   5.97040989e-02  5.68783619e-02  5.50896451e-02  5.39547354e-02
+   5.32363169e-02  5.31994998e-02  5.03963530e-02  4.92592603e-02
+   4.85621430e-02  4.67237644e-02]
+ [ 5.25553286e-01  3.37655187e-01  2.04123154e-01  1.96706787e-01
+   1.80856228e-01  1.73275620e-01  1.71872243e-01  1.54651329e-01
+   1.45775482e-01  1.29896000e-01  1.23270623e-01  1.18207783e-01
+   1.08495526e-01  1.08305231e-01  9.76785645e-02  9.70338956e-02
+   9.63385552e-02  8.97969082e-02  8.72906074e-02  7.44669661e-02
+   7.26673752e-02  6.13628328e-02  5.48781231e-02  5.26246317e-02
+   5.22142313e-02  5.13752550e-02  4.94849347e-02  4.91938889e-02
+   4.43056300e-02  3.20755616e-02  2.86820307e-02  2.74480116e-02
+   2.24759299e-02  2.21419930e-02  2.17981692e-02  2.06265822e-02
+   1.63367894e-02  1.12793501e-02  9.87157598e-03  5.16098924e-04
+  -3.27751227e-03 -6.57927897e-03 -6.83380198e-03 -6.96107512e-03
+  -9.67120007e-03 -1.10676456e-02 -1.13478117e-02 -1.50297685e-02
+  -1.81243401e-02 -2.49561667e-02]
+ [ 4.28520024e-01  3.23219180e-01  2.10120410e-01  2.04189479e-01
+   1.62464812e-01  1.59541473e-01  1.40800133e-01  1.29528850e-01
+   1.23801515e-01  1.08439676e-01  1.05338603e-01  9.66363698e-02
+   8.58742222e-02  8.42993259e-02  8.14332068e-02  6.27949238e-02
+   5.59669994e-02  5.30086979e-02  4.76264656e-02  4.74080667e-02
+   4.54129800e-02  4.53311652e-02  4.07437310e-02  3.56987678e-02
+   2.96144877e-02  2.86790412e-02  2.65131593e-02  2.50098407e-02
+   2.13309955e-02  1.82581302e-02  1.67917088e-02  1.42186936e-02
+   1.15938913e-02  6.75174175e-03  6.70261495e-03  1.64188538e-03
+  -1.62442587e-03 -3.19132861e-03 -6.10764138e-03 -6.95028063e-03
+  -8.10174830e-03 -8.32219049e-03 -8.50443635e-03 -1.03479577e-02
+  -1.08863255e-02 -1.25055229e-02 -1.28392242e-02 -1.36865461e-02
+  -1.85152404e-02 -2.47911364e-02]] [0 1 2]
+['communities' 'people' 'areas' 'schools' 'homes' 'work' 'local'
+ 'families' 'income' 'community' 'family' 'town' 'in' 'city' 'area' 'live'
+ 'of' 'population' 'they' 'at'] [0.50523385 0.47870674 0.46911757 0.46559783 0.44189681 0.43540233
+ 0.42683407 0.41916545 0.39850356 0.39591362 0.38114985 0.36881072
+ 0.36507126 0.3639511  0.34793529 0.34681697 0.34447283 0.34128799
+ 0.32202477 0.3205808 ]
