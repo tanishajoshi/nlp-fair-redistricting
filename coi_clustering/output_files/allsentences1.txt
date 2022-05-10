@@ -1,0 +1,425 @@
+Encode the corpus. This might take a while
+Start clustering
+Clustering done after 0.16 sec
+reached here
+
+Cluster 1, #19 Elements 
+	  Mostly single family homes
+	  Mostly farms & owner-occupied single family homes
+	 Middle to affluent single family homes who are mostly homeowners
+	 Primarily single family residential but growing apartment homes
+	 Mixture of single family homes
+	  Mostly owner occupied single family housing
+	  Some single family rentals and apartments
+	  Largely residential area with tens of thousands of single family homes serving many low-income working class families
+	  They are also mainly renters since there aren't as many single family homes in this area
+	   There are also a lot of single parent households and apartment buildings
+	  Single family home owners and renters
+	 
+This area is comprised of mainly of farmiong families in single family dwellings
+	 Residential, similarly priced single-family homes, young families to retirees
+	 
+
+That area is comprised mostly of farm families in single family dwelling
+	  There are a variety of different socio-economic neighborhoods - apartment complexes, single family homes and new, large single family construction
+	  124 homes including couples with school age children, retirees, and professionals
+	  I feel that single family homes are needed in this community and income based apartments are needed badly
+	 Suburban, mostly single-family homes; mostly homeowners' middle- and professional-class
+	  Starter homes/single child families
+	 ...
+reached here
+
+Cluster 2, #16 Elements 
+	  Common interests would be community, investment, and community development
+	  Common interests would be public education, community events, and investments into their community
+	  Common interest would be transportation, income, as well as community development
+	  Common interests would be community, public safety, human rights, and policy change locally
+	  Common interest would be the welfare of the neighborhood, community, and investment into those who truly need it
+	  Common interest would be public safety, investment, development, and transportation
+	  Common interest of the community would be transportation, access to fresh food, and supporting local business
+	  Common interest are development, community investment, and expanded access to public transportation
+	  Common interests would be transportation, investment into the community, and the arts, especially local art
+	  Common interests would be public investment into the arts, public safety, and the local arts community
+	  Common Interests would be access to food, school, and community health
+	  Common interests would be the houseless population, nigh life, and public safety
+	   Shared interests include tourism, historical preservation, education and youth activities, infrastructure, community spaces (e
+	  Common interest would be income, housing, and downtown investment
+	  Common interest would be local business, night life, and access to housing
+	  Common interests include community welfare and affordable housing, diversity, and quality of life concerns
+	 ...
+reached here
+
+Cluster 3, #16 Elements 
+	 This elementary school has a free and reduced lunch rate of 39%
+	   There is a free and reduced lunch rate of 41% in this school
+	   This elementary school has the lowest % of free and reduced lunches in the SD
+	 This elementary school in Jefferson County has a free and reduced lunch rate of 51%
+	 This elementary school in the Fox school district has a 52% free and reduced lunch rate
+	 30% of kids at Crestwood Elementary get free and reduced lunches
+	 House Springs Elementary in the Northwest SD has 37% free and reduced lunches
+	 Ross Elementary and Craig Elementary schools in the Parkway school district have a free and reduced lunch rate of 30% which puts them near the highest in that school district
+	 Fox elementary has 42% free and reduced lunch rate
+	 Maple Grove Elementary in the Northwest SD has 48% free and reduced lunches
+	 Murphy Elementary in the Northwest SD has nearly 45% free and reduced lunches
+	 This elementary school in Fenton is in the Rockwood school district and has a free and reduced lunch rate of 29%
+	 Sappington elementary has about a 32% free and reduced lunch
+	 Gotsch intermediate school has about 30% of students that qualify for free and reduced lunches
+	 Cedar Springs Elementary in the Northwest SD has 31% free and reduced lunches
+	 High Ridge Elementary in the Northwest SD has 48% free and reduced lunches
+	 ...
+reached here
+
+Cluster 4, #11 Elements 
+	 
+	  
+	 
+
+	  
+
+	   
+	    
+	  
+
+
+	 
+
+
+	    
+ 
+	     
+	  
+
+
+
+
+	 ...
+reached here
+
+Cluster 5, #11 Elements 
+	 On a macro level, all of these places are areas that I would consider to be a part of Springfield and its broader community/metropolitan
+	  The population of each of the highlighted cities outside of Springfield interacts with Springfield in many important ways
+	 People who live and work in these areas are connected strongly to the Springfield downtown area
+	 South-side-ish Springfield, this includes our home, our retail area with both franchises, chain, and small businesses, outdoor space and parks with green space and community emphasis on outdoor activities such as bike trails, running trails, and includes access to our hospitals - it feels like a good combination of suburban/urban
+	 People living in the greater Springfield area with similar interests
+	 This area is primarily a rural area  with  a small portion within city limits of Springfield
+	 An area that shares common issues of traffic, water flow, population density around MSU, economic development, poverty, and people who drive into Springfield to work, back and forth
+	  This community works within Springfield but tends to be mostly home owners and higher income renters
+	   Residents have larger lots but most work in Springfield
+	  This area of Springfield is in need of community development and upgraded infrastructure
+	 My home, many of my friends, my children's schools, church, work, and most of the places I go for shopping or entertainment are located in the map area, all primarily in central Springfield
+	 ...
+reached here
+
+Cluster 6, #10 Elements 
+	 The population was 525 at the 2010 census
+	 The population was 475 at the 2010 census
+	 The population was 328 at the 2010 census
+	 The population was 3,075 at the 2010 census
+	 The population was 505 at the 2010 census
+	 The 2010 census showed the city's population to be 52,575
+	 The population was 522 at the 2010 census
+	 The population was 253 at the 2010 census
+	 The population was 5,443 at the 2010 census
+	 As of the 2010 census, the city had a total population of 29,070
+	 ...
+reached here
+
+Cluster 7, #10 Elements 
+	   It is a diverse community
+	  Very diverse community as well
+	  The community is diverse and are active in their community
+	 There is growing diversity in this community
+	 This community is a diverse community of adults, children, and the elderly
+	 We love our community because our community is uniquely diverse
+	  It is also diverse racially and ethnically
+	   The population here is diverse
+	  It's diverse with people of different ages, and racial and ethnic backgrounds
+	 This is a diverse neighborhood racially and age-wise with many community minded people
+	 ...
+reached here
+
+Cluster 8, #9 Elements 
+	 9% whites
+	 1% blacks, 10 %  whites
+	 6 % blacks, 9
+	 7% white, 6
+	 4% White, 11
+	 9%
+Black 39
+	 9% Hispanic
+	 4% Black, 7
+	 29%
+Black people 41
+	 ...
+reached here
+
+Cluster 9, #9 Elements 
+	 This community is a rural farming community
+	  This is a farming community
+	 An agricultural community
+	   It is mostly a farming community
+	 Community is spread out with lots of farming around the area
+	  Many rural residents are small family farmers
+	 These communities have farmers and agriculture, including cattle and crops
+	   The area has a community garden
+	 The community of farmers around the Sprock Farm do lots of business with this farm
+	 ...
+reached here
+
+Cluster 10, #8 Elements 
+	 This community has mostly older houses (100+ years)
+	  Each community has a mixture of old historic homes and more recent developments
+	 The community has a lot of older folks living in it
+	   The neighborhood has a number older homes and many people have restored, repaired, and improved these older properties
+	 This community consists of elderly folks and young families
+	   Older homes many historic in nature
+	  The homes are built in the 50s and 60s and many homes still have original occupying elders whose kids have grown left the house
+	  New families with elementary aged children are moving in as the older generation ages out and bringing new life to an aging community and revamping the old houses
+	 ...
+reached here
+
+Cluster 11, #7 Elements 
+	   Community concerns include better access to transportation and safer roadways
+	  Collective concerns include road conditions, public health/safety, and expanded access to public transportation
+	 Common concerns are public transportation, highways
+	  Some issues the community needs to have addressed are poorly maintained roads, lack of sidewalks, and lack of street lights that affect the walkability and traffic safety in the community
+	  Residents are concerned about safe driving, schools, and park accessibility
+	  Community concerns include lack of public transport, green space, and diversified amenities that are accessible and affordable to the working-class community who lives here
+	  The concerns in this community are the newer highways that have been build around the cities
+	 ...
+reached here
+
+Cluster 12, #7 Elements 
+	 Mehlville School District is located in south St
+	   It is in the Mehlville school district
+	  The Mehlville School district is divided into two high schools
+	    The Mehlville School district is divided into two high schools
+	 All residents are in the Mehlville School District
+	 Mehlville High School
+	 This community is comprised of the Mehlville School District with larger immigrant populations to the north
+	 ...
+reached here
+
+Cluster 13, #7 Elements 
+	   This community will want quality schools for their children and their neighbor's children
+	   This community wants quality education for their kids to enable them to go anywhere in there future
+	    This community wants quality schools in this area south of the St
+	   The Parkway SD community wants to have quality schools that  prepare their kids for a successful future as contributing citizens
+	   All the voters here want quality schools
+	 The Hillsboro School District is a community of people who all want quality schools
+	  Schools are fairly good in the communities
+	 ...
+reached here
+
+Cluster 14, #7 Elements 
+	 St
+	  St
+	 The St
+	  The St
+	 This is a community that the city of St
+	  However, the City of St
+	 This area would all be considered "St
+	 ...
+reached here
+
+Cluster 15, #7 Elements 
+	  Mix of generations who live here, but it is starting to transition to more younger families
+	  Mixture of people who have lived here for multiple generations and new people moving in
+	  There also is an increase of elementary-aged children in the area, indicating that young families are settling here
+	  Some families have been here for two or three generations, people buy their parents homes to stay in the area or if people move, they tend to move close by
+	  The community is transition as original residents are moving out or passing away, and more young families are moving in
+	  Lots of new younger folks/families moving into the area
+	 
+It seems to be transitioning from an older population of home-owners to younger and more diverse owners and renters
+	 ...
+reached here
+
+Cluster 16, #7 Elements 
+	 I shop and do much of my business in Fayette
+	   
+
+I shop mostly in Fayette, my health care provider is in Fayette
+	 
+
+I shop in Fayette which is a traditional small rural town
+	 
+
+I shop in Fayette and get my healthcare services in Columbia
+	 
+
+There are some good restaurants in Fayette
+	 
+
+There is lack of shopping opportunities in Fayette
+	 I grew up and lived in Fayette for 30 years
+	 ...
+reached here
+
+Cluster 17, #7 Elements 
+	 Established neighborhood with mixed age housing
+Majority white and hispanic families
+More than 90% owner-occupied homes
+Long term residents 
+Socially and politically active, community-oriented, strong neighborhood traditions 
+	 Established neighborhood with some historic homes and some newly re-purposed (ie Norman School is now apts)
+Majority white (67%), some black (17%) and hispanic (11%) families
+More than 80% rental properties
+Socially and politically active, community-oriented, strong neighborhood traditions 
+	 Historic neighborhood
+77% white professional (lawyers, MD, architects), family-oriented
+Approx 100 homes, single family (per covenant)
+Long term residents (30+ years)
+Socially and politically active, community-oriented, strong neighborhood traditions with numerous annual events
+	  Historically, a working class neighborhood with older homes and apartments, and populated with diverse, old and young people
+	  There is a mix of people who have lived here for 10+ years as well as people who are new to the neighborhood
+	  However, there is still a good deal of families and newer families (lower age) that live in this neighborhood
+	   Neighborhood is a mixture of owned homes and rentals
+	 ...
+reached here
+
+Cluster 18, #6 Elements 
+	    Many families that live in this community will likely need help with healthcare, childcare, and maybe housing
+	   Many families that live in this community will likely need help with healthcare, childcare, and maybe housing
+	 
+Many families that live in this community will likely need help with healthcare, childcare, and maybe housing
+	   Still, many families that live in this community will likely need help with healthcare, childcare, and maybe housing
+	   Many of these families will need extra resources to be able to care for their families
+	   This community is going to be concerned about their health and the health of their families
+	 ...
+reached here
+
+Cluster 19, #6 Elements 
+	  Most of the residents work for the State and commute to Jefferson City
+	  Most commute to Jefferson City for work and shopping
+	 
+Many residents of Holts Summit and other nearby towns commute to Jefferson City for work and/or school
+	  However, many families have 1 or more members commuting to Jefferson City and (more rarely) Columbia for work
+	  Work commutes between Columbia and Jefferson City are common and the population of Ashland is growing
+	 Ashland is a growing community with many residents commuting to Jefferson City or Columbia for work
+	 ...
+reached here
+
+Cluster 20, #6 Elements 
+	  Louis area
+	  Louis suburbs
+	  Louis County
+	  Louis county
+	  Louis
+	  Louis and St
+	 ...
+reached here
+
+Cluster 21, #6 Elements 
+	  school district
+	 Washington School District
+	  Charles School District
+	   People identify with the school districts they are a part of
+	 School Districts main employer
+	 Orchard Farm School District
+	 ...
+reached here
+
+Cluster 22, #6 Elements 
+	  This district is important because there is a lot of traffic from the community as well as neighboring neighborhoods
+	 Very important district to the community at-large
+	  There is a lot of traffic, both through vehicles as well as in person in this district
+	 My community districting is very vast in my area
+	  Both the restaurant district and the freeway, mean many non-residents travel regularly through the neighborhood
+	  A lot of tourist come through this district as well
+	 ...
+reached here
+
+Cluster 23, #6 Elements 
+	   People use the parks and outdoor community spaces
+	   The people in this area like public parks and other community gathering spaces
+	 Communities with easy access to Public Parks
+	  People here use the park regularly and many are younger families
+	  People living in this community love outdoor recreation activities like hiking and camping
+	 Communities without easy access to Public Parks
+	 ...
+reached here
+
+Cluster 24, #5 Elements 
+	   Map assistance from Jess Shepherd
+	   Assistance with this map came from Jess Shepherd
+	  Assistance with this map came from Jess Shepherd
+	   Map assistance from Jess Sherpherd
+	   Assistance to draw this map came from Jefferson County resident, Jess Shepherd
+	 ...
+reached here
+
+Cluster 25, #5 Elements 
+	 Mixed-income community that is predominantly working-class
+	 This community has a large working class population with a mixture of mixed-home, single homes
+	  Class wise, this community is mainly composed of working class individuals, service workers, and those that work minimum and low wage jobs
+	 It is an economically mixed community of mostly working people
+	   The broader community is working-class to middle-class professionals
+	 ...
+reached here
+
+Cluster 26, #5 Elements 
+	 Lower to middle income
+	 This community is lower to middle income
+	  Primarily middle to upper middle class incomes
+	 middle to upper income, mostly homeowners
+	  higher income
+	 ...
+reached here
+
+Cluster 27, #5 Elements 
+	  I think most of the people around me live and work in Columbia
+	  Many residents work in Columbia or Jeff City
+	  People in this area depend on the Columbia area for jobs, health care, etc
+	 I do most of my shopping, dining out and get my healthcare in parts of Columbia
+	 
+
+I work and get my healthcare services in Columbia 
+	 ...
+reached here
+
+Cluster 28, #5 Elements 
+	   The school district is currently divided between two Senate Districts 22 and 3
+	   It is divided into two Senate districts  22 and 3
+	   These schools are partly in Senate Dist 15 and partly in Senate District 24
+	   Although most of the school district is in Senate Dist 22 that is a small fraction that is in Dist 3
+	   Both the city of Festus and the Festus school district are divided into two Senate districts - Dist 22 and Dist 3
+	 ...
+reached here
+
+Cluster 29, #5 Elements 
+	 There are a lot of retirees and senior citizens in the area
+	 
+
+There are lot of retirees throughout the neighborhood
+	  Lots of retirees and families
+	 Locations where most retired people live
+	  There are some retirees as well
+	 ...
+reached here
+
+Cluster 30, #5 Elements 
+	   Lack of rental housing
+	  Lack of Affordable Housing (rental and purchase) 
+5
+	  Shortage of rental property
+	   Some need housing
+	  Shortage of affordable housing is a growing concern in this area
+	 ...
+reached here
+
+Cluster 31, #5 Elements 
+	 My community is primarily made up of middle-class families and young renters
+	 This community consists of a diverse group of middle class families
+	 My community is made up of, mostly, working class people in their thirties and forties
+	   The community consists of middle to lower middle class single home dwellings, student housing and apartment complexes
+	  the community tends to be lower income, downtown urban residents with whom i share very little in common
+	 ...
+reached here
+
+Cluster 32, #5 Elements 
+	 Communities without easy access to Pharmacies
+	 Communities with easy access to Pharmacies
+	 Communities without easy access to Medical Facilities
+	 Communities with easy access to Medical Facilities
+	 Communities without easy access to Grocery Stores
+	 ...

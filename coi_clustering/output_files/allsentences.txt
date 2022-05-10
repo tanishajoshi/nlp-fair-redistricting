@@ -1,0 +1,155 @@
+Encode the corpus. This might take a while
+Start clustering
+Clustering done after 0.04 sec
+reached here
+
+Cluster 1, #10 Elements 
+	 The population was 525 at the 2010 census
+	 The population was 475 at the 2010 census
+	 The population was 328 at the 2010 census
+	 The population was 3,075 at the 2010 census
+	 The population was 505 at the 2010 census
+	 The 2010 census showed the city's population to be 52,575
+	 The population was 522 at the 2010 census
+	 The population was 253 at the 2010 census
+	 The population was 5,443 at the 2010 census
+	 As of the 2010 census, the city had a total population of 29,070
+	 ...
+reached here
+
+Cluster 2, #9 Elements 
+	 
+	  
+
+	    
+	 
+
+	 
+
+
+	  
+	    
+ 
+	   
+	  
+
+
+	 ...
+reached here
+
+Cluster 3, #9 Elements 
+	 This elementary school has a free and reduced lunch rate of 39%
+	   There is a free and reduced lunch rate of 41% in this school
+	 This elementary school in Jefferson County has a free and reduced lunch rate of 51%
+	 This elementary school in the Fox school district has a 52% free and reduced lunch rate
+	 30% of kids at Crestwood Elementary get free and reduced lunches
+	 Fox elementary has 42% free and reduced lunch rate
+	 This elementary school in Fenton is in the Rockwood school district and has a free and reduced lunch rate of 29%
+	 Sappington elementary has about a 32% free and reduced lunch
+	 Gotsch intermediate school has about 30% of students that qualify for free and reduced lunches
+	 ...
+reached here
+
+Cluster 4, #9 Elements 
+	 Middle to affluent single family homes who are mostly homeowners
+	 Suburban, mostly single-family homes; mostly homeowners' middle- and professional-class
+	  Mostly farms & owner-occupied single family homes
+	  Largely residential area with tens of thousands of single family homes serving many low-income working class families
+	 middle to upper income, mostly homeowners
+	 Residential, similarly priced single-family homes, young families to retirees
+	  A mix of middle income homeowners and renters
+	 Middle class homeowners
+	  Mostly owner occupied single family housing
+	 ...
+reached here
+
+Cluster 5, #9 Elements 
+	 On a macro level, all of these places are areas that I would consider to be a part of Springfield and its broader community/metropolitan
+	  The population of each of the highlighted cities outside of Springfield interacts with Springfield in many important ways
+	 People who live and work in these areas are connected strongly to the Springfield downtown area
+	 South-side-ish Springfield, this includes our home, our retail area with both franchises, chain, and small businesses, outdoor space and parks with green space and community emphasis on outdoor activities such as bike trails, running trails, and includes access to our hospitals - it feels like a good combination of suburban/urban
+	 People living in the greater Springfield area with similar interests
+	 An area that shares common issues of traffic, water flow, population density around MSU, economic development, poverty, and people who drive into Springfield to work, back and forth
+	   Residents have larger lots but most work in Springfield
+	  This area of Springfield is in need of community development and upgraded infrastructure
+	 My home, many of my friends, my children's schools, church, work, and most of the places I go for shopping or entertainment are located in the map area, all primarily in central Springfield
+	 ...
+reached here
+
+Cluster 6, #7 Elements 
+	 I shop and do much of my business in Fayette
+	   
+
+I shop mostly in Fayette, my health care provider is in Fayette
+	 
+
+I shop in Fayette which is a traditional small rural town
+	 
+
+I shop in Fayette and get my healthcare services in Columbia
+	 
+
+There are some good restaurants in Fayette
+	 
+
+There is lack of shopping opportunities in Fayette
+	 I grew up and lived in Fayette for 30 years
+	 ...
+reached here
+
+Cluster 7, #6 Elements 
+	 Mehlville High School
+	   It is in the Mehlville school district
+	 Oakville High School
+	    The Mehlville School district is divided into two high schools
+	  The Mehlville School district is divided into two high schools
+	 Mehlville School District is located in south St
+	 ...
+reached here
+
+Cluster 8, #6 Elements 
+	 Established neighborhood with mixed age housing
+Majority white and hispanic families
+More than 90% owner-occupied homes
+Long term residents 
+Socially and politically active, community-oriented, strong neighborhood traditions 
+	 Established neighborhood with some historic homes and some newly re-purposed (ie Norman School is now apts)
+Majority white (67%), some black (17%) and hispanic (11%) families
+More than 80% rental properties
+Socially and politically active, community-oriented, strong neighborhood traditions 
+	 Historic neighborhood
+77% white professional (lawyers, MD, architects), family-oriented
+Approx 100 homes, single family (per covenant)
+Long term residents (30+ years)
+Socially and politically active, community-oriented, strong neighborhood traditions with numerous annual events
+	  Historically, a working class neighborhood with older homes and apartments, and populated with diverse, old and young people
+	  However, there is still a good deal of families and newer families (lower age) that live in this neighborhood
+	   Neighborhood is a mixture of owned homes and rentals
+	 ...
+reached here
+
+Cluster 9, #5 Elements 
+	  However, the City of St
+	  The St
+	 Bounded by the City of St
+	  St
+	 St
+	 ...
+reached here
+
+Cluster 10, #5 Elements 
+	   This community will want quality schools for their children and their neighbor's children
+	    This community wants quality schools in this area south of the St
+	   All the voters here want quality schools
+	 The Hillsboro School District is a community of people who all want quality schools
+	  Schools are fairly good in the communities
+	 ...
+reached here
+
+Cluster 11, #5 Elements 
+	  school district
+	 Washington School District
+	  Charles School District
+	 School Districts main employer
+	 Orchard Farm School District
+	 ...
