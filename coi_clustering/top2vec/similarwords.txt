@@ -1,5 +1,6 @@
 numrows=  808
 Number of topics discovered 3
+keyword: businesses
 [595  32  21] [0 1 2]
 [['residents' 'neighborhood' 'community' 'county' 'communities'
   'district' 'housing' 'area' 'population' 'town' 'homes' 'areas'
