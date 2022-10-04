@@ -1,0 +1,273 @@
+numrows=  808
+num entries =  648
+Encode the corpus. This might take a while
+Start clustering
+Clustering done after 0.04 sec
+
+Cluster 1, #38 Elements 
+	 These are neighborhoods that are core middle class professional live in. Some parts have a large community of children/school aged adolescents. Many of the people that live in this area are young adults that have recently graduated college or are in the early years of their careers. This area is not composed of mainly working class young adults but adults that work in corporate or professional fields. They are also mainly renters since there aren't as many single family homes in this area. There are mainly apartment complexes and other available rentals #mojwj
+	 A group of mostly college area, with a lot of apartments and small businesses. Neighborhood vibe when there are many apartment groups/rented houses. Most people dont go out too far since there is a lot of nearby chains/businesses. 
+	 It's a mix of people of different ages, marital statuses, and children.  It's a very diverse place in my apartment complex.  The broader community is working-class to middle-class professionals.
+	 This community area straddles the city's dividing lines and is varied demographically in terms of race, income, and percentage of renters:owners. Overall, the community has smaller households--there are many single adults living with partners or roommates. There also is an increase of elementary-aged children in the area, indicating that young families are settling here. 
+There are many single parents living in the community, so access to childcare and family-oriented activities are important to people here. Access to mental health care and community involvement/advocacy are also important to people in this area. 
+
+	 There is growing diversity in this community.  The area is growing in population significantly.  It is a generally middle class area with some working-class people as well.  Most of the housing growth has been driven by apartments or retirement housing.
+	 This community is a diverse community of adults, children, and the elderly. It is also diverse racially and ethnically. Class wise, this community is mainly composed of working class individuals, service workers, and those that work minimum and low wage jobs. Since many inhabitants are working class workers, many are only able to rent opposed to owning property. #mojwj 
+	 This is a working class area filled with students, young professionals and longtime residents. It's a walkable neighborhood that has been an affordable place for a cross section of young and old folks to live. Folks share open spaces, like the Westport high school well and have a real attachment to not seeing these spaces overrun by developers. There is certainly a shared interest/fear in seeing the community remain affordable and liveable. 
+	 It is an economically mixed community of mostly working people.  The neighborhood is chaning and there are more progressive people moving in.
+	 A community with a diverse array of housing types (rental apartments, condos, single family houses, large historic houses), green spaces, artistic centers, and some businesses. The population seems to range from unhoused, struggling young people to wealthy professionals, with every category in between.
+	 Mix of owner-occupied and rental housing (in both houses and apartment complexes).  Concerns are access to healthy food (grocery stores and farmer's markets), parks, and walkable / bike-able neighborhoods.  Many residents live, work, and play within this neighborhood during a typical week.  
+	 Living neighborhoods sparsely mixed with large business districts. Varied employment, mostly service industry jobs or professional labor.  Some parts of infrastructure is outdated and/or needs greater maintenance -- occasional power outages, storm water surges, unreliable internet service.
+	 This is a community of families who care about their neighborhood (several neighborhood associations),  education and schools, hospitals and health care. The community is involved in government at the local, state, and federal levels and votes at a high rate.
+	 Established neighborhood with mixed age housing
+Majority white and hispanic families
+More than 90% owner-occupied homes
+Long term residents 
+Socially and politically active, community-oriented, strong neighborhood traditions 
+	 Residential 
+Many children living in this neighborhood
+Several people in the neighborhood work over-night factory jobs
+Social neighborhood
+
+	 Middle class. Mostly homeowners. Some apartments. Primarily white but still a mix of white & black folks. 
+
+Lots of folks go to the dog park & trails. Very few sidewalks -- very car heavy. No public transit. Tons of dump truck traffic on creasy springs. Good amount of public workers and building trades. 
+
+
+	 Black and white neighborhood with a growing number of Black residents. There are a number of black families in the area. The White residents have mostly been in this area for some time. There are new businesses popping up. 
+	 Residents have shared interests distinct from the surrounding region, including a shared school district, health department, public safety, and housing authority. Compared with surrounding area, residents tend to be younger, are likely to be less wealthy, and are more likely to rent. They also share vital infrastructure including public transit and utilities.
+	 Encompasses residential areas and business districts that have seen dramatic growth and investment over past 10 years. Residents have shared interest in encouraging continued growth while protecting renters' rights and maintaining the affordability, density and diversity that made these areas thriving and desirable communities.
+	 Upper income neighborhood. New homes being built. Low crime. New Junior High in the north 
+	 Traditionally low-income part of town: mixed income (low-med), longterm rentals, small, single-family/multi-family dwellings, some rent-controlled multilpe units.  Lack of public transportation, cooling center or other climate-related mitigation; roads and sidewalks in poor condition.  
+	 This is the area that I consider my immediate neighborhood. Most of the houses are like mine. 
+	 A group of several neighborhoods with over one hundred years of first generation immigration from all over the world, shared business interests, and similar economic backgrounds. Largely residential area with tens of thousands of single family homes serving many low-income working class families. 
+	 Historic neighborhood
+77% white professional (lawyers, MD, architects), family-oriented
+Approx 100 homes, single family (per covenant)
+Long term residents (30+ years)
+Socially and politically active, community-oriented, strong neighborhood traditions with numerous annual events
+	 Established neighborhood with some historic homes and some newly re-purposed (ie Norman School is now apts)
+Majority white (67%), some black (17%) and hispanic (11%) families
+More than 80% rental properties
+Socially and politically active, community-oriented, strong neighborhood traditions 
+	 This area contains small rental older homes and an affordable housing unit with approximately 35 apartments.  Many of the residents are physically handicapped .
+	 Residential, similarly priced single-family homes, young families to retirees. Professionals. Limited access to major highways.
+	 This is a diverse neighborhood racially and age-wise with many community minded people.  The neighborhood is interested in native plant gardening and wants that to be allowed.  The neighborhood does a lot of bartering and helps each other out.  Neighborhood is a mixture of owned homes and rentals.  Storm water control and infrastructure (sewer and street repairs) are important b/c this is an older part of the city.  Often traffic is a problem with people cutting through north-south at high rates of speed.  The neighborhood has a number older homes and many people have restored, repaired, and improved these older properties.  
+	 Mixed-income community that is predominantly working-class. Community concerns include lack of public transport, green space, and diversified amenities that are accessible and affordable to the working-class community who lives here. 
+	 This community shares high density neighborhoods with a mix of rental and owner-occupied housing stock.  Heavy reliance on bus transportation and walking. Most folks leave the neighborhood to work. Large number of refugees and immigrants. Common grocery stores and worship places. The map north boundaries should be I-64. The census tract lines would not allow me to indicate this.
+	 This tight knit community is like "suburbia in the City." There are lots of block parties, neighbors borrowing sugar, talking over the fence. Many churches and schools are incorporated into the neighborhood, with Francis Park at the Center. On the northern end, there are many stores, including Target and Schnucks used by most in the neighborhood. Most people own their homes. 
+	 # small to medium middle class suburban communities who share a school district. There are few non-English speakers. There is diverse housing, from inexpensive to expensive. Some in the community, because of gentrification, are struggling to be able to afford to remain here. Many small businesses  and restaurants, a few larger stores. There is access to the MetroLink, but public transportation is spotty often causing long commutes and many transfers to get to outlying areas.
+	 Community is spread out with lots of farming around the area. Close to a lot of highways but there is no public transit. People are overall friendly and neighborly. 
+
+The area is kind of gentrified and it's segregated. McMansions can be less than a mile from poorly maintained apartment buildings where low-income residents live.
+	 The community has a lot of older folks living in it. It is still majority white but enclaves of immigrant communities and communities of color are starting to pop up. Those communities are still condensed into small enclaves (segregation). Example: Vietnamese restaurants are all in one area and it's by design. 
+
+The neighborhood has political and racial tensions. Overall, it's a safe community that is nearby to local coffee shops and restaurants. 
+
+
+
+
+	 Lots of residents have to drive outside of the community to get to work--people rely on the street car to access restaurants, businesses and arts and culture. Mostly white collar community wanting cool apartments in the city. 
+	 this is where i regularly spend time. the community tends to be lower income, downtown urban residents with whom i share very little in common.
+	 The neighborhood is family oriented, the information provided under the "Evaluation" tab is accurate. I feel that single family homes are needed in this community and income based apartments are needed badly. Speed bumps are needed on John R Blvd, kids play in this community a lot and people speed coming down the heel that has been the results of multiple deaths and injuries. A caution sign would help also.
+	 Diverse group of people of multi-racial backgrounds and cultures and young and old. There is a young community and elderly community who balance each other pretty well. The area is also balanced politically. This area is getting it's rebirth. The homes are built in the 50s and 60s and many homes still have original occupying elders whose kids have grown left the house. New families with elementary aged children are moving in as the older generation ages out and bringing new life to an aging community and revamping the old houses. 
+	 I've moved back recently and really appreciate the ability to live near a central area in town and be a short drive away from my parents. My neighborhood has been very welcoming and I've had a chance to remodel my home to settle in. I see this as a place where I can build a family and community. 
+
+Cluster 2, #19 Elements 
+	 People living in the greater Springfield area with similar interests.
+	 This community is more suburban than communities south of I-44. This community works within Springfield but tends to be mostly home owners and higher income renters. 
+	 My home, many of my friends, my children's schools, church, work, and most of the places I go for shopping or entertainment are located in the map area, all primarily in central Springfield.  This area contains some of the most important cultural amenities, the two largest hospital systems, and some of the oldest neighborhoods in the city, many of which are historically strong or recently revitalizing.  Many of the city's most engaged neighborhood associations are active in this area. There are some significant social class distinctions, but there seems to be a fairly strong central city identity.  The population here is diverse.   
+ 
+	 People who live and work in these areas are connected strongly to the Springfield downtown area. There are numerous community events that happen in the vicinity that people are able to walk to that really binds the area together. Some of these are ArtsFest, Events on the Square, Cider Days, and MSU Events. In addition there are a lot of eateries in these areas that we all frequent. While other people will drive in the close connection with these businesses and events drives people into wanting to live and work in these locations.  
+	 These neighborhoods have a high concentration of senior housing, mostly rental units. The Southside Senior Center services this area. Springfield has a high population of senior citizens. The biggest employers in Springfield are the medical industries.  Seniors are concerned about health care issues, prescription drug costs, and access to health care facilities. 
+	 Suburban, mostly single-family homes; mostly homeowners' middle- and professional-class. Springfield addresses but outside Springfield city limits--residents here are affected by Springfield politics but can't vote in Springfield elections (can vote for school board). Main issues: public schools, employment, transportation infrastructure (roads)
+	 On a macro level, all of these places are areas that I would consider to be a part of Springfield and its broader community/metropolitan. The population of each of the highlighted cities outside of Springfield interacts with Springfield in many important ways. They work in Springfield, they go to Springfield for entertainment, they all use the Springfield hospital system, the schools interact really closely, many of the students of the surrounding areas hang out in Springfield, etc... Springfield is so sprawled out that, if anything, the surrounding cities almost just feel like Springfield suburbs. None of them are typically more than a 20 minute drive out.
+	 South-side-ish Springfield, this includes our home, our retail area with both franchises, chain, and small businesses, outdoor space and parks with green space and community emphasis on outdoor activities such as bike trails, running trails, and includes access to our hospitals - it feels like a good combination of suburban/urban.
+	 Springfield, MO - rural and religious, mostly Caucasian. Lots of subdivisions, banks and gas stations.
+High poverty.
+
+	 This community tends to be lower income. This area also houses a majority of our minority communities. This area of Springfield is in need of community development and upgraded infrastructure. There is less economic opportunity here and needs business development to bolster the community. 
+	 Suburban cities where people will commute to Springfield for work
+	 An area that shares common issues of traffic, water flow, population density around MSU, economic development, poverty, and people who drive into Springfield to work, back and forth.
+	 MSU students/ faculty, Parkview high school, rountree, sunshine elementary schools, mix of renter/ owner occupied housing, park central branch library and schweitzer brentwood branch library, people who work and shop in downtown springfield 
+	 This area emcompasses a portion of the Springfield School District, a portion of Springfield and a surrounding rural area.  The school is in a more isolated area.  Residents have larger lots but most work in Springfield.
+	 This is the historic heart of Springfield. It encompasses 3 of our universities - Drury, OTC, and MSU, along with the downtown region with Park Central Square, a good portion of the "Route 66", and the Springfield Art Museum. People who live, go to school, and work in this area tend to be more progressive, inclusive, and diverse.
+	 Popular Tourist sport near Springfield
+	 Downtown Springfield; Lots of local shops, a local brewery, restaurants, bars; high number of rentals due to downtown area and proximity to Missouri State University; McGregor Elementary; Campbell Early Childhood Center; a large number of vacant and nuisance properties; lack of available affordable housing; West Central Neighborhood Association; poverty an issue
+	 Some areas on the outskirts of Springfield are lacking access to public transportation and pedestrian walkways.  This makes it unsafe and difficult for people to access employment and goods and services.  
+	 Includes my home, work, dog walk route, our main grocery stores in the area, Missouri State and downtown Springfield, along with Phelps Grove, Art Museum, the Rountree & Pickwick area which is becoming more and more community around businesses and outdoor activities and festivals; and includes historic walnut where ArtsFest happens. This is what I think of as my community.
+
+Cluster 3, #14 Elements 
+	 The population was 525 at the 2010 census.
+	 The population was 475 at the 2010 census.
+	 The population was 328 at the 2010 census
+	 The population was 505 at the 2010 census.
+	 The population was 3,075 at the 2010 census.
+	 The 2010 census showed the city's population to be 52,575
+	 The population was 522 at the 2010 census. 
+	 The population was 5,443 at the 2010 census.
+	 The population was 253 at the 2010 census. 
+	 As of the 2010 census, the city had a total population of 29,070
+	 The population was 11,494 at the 2010 census.
+	 The population was 65,794 at the 2010 census
+	 The population was 14,545 as of the 2010 US Census.
+	 The population was 1,829 at the 2010 census.
+
+Cluster 4, #12 Elements 
+	 30% of kids at Crestwood Elementary get free and reduced lunches.
+	 This elementary school in Fenton is in the Rockwood school district and has a free and reduced lunch rate of 29%. 
+	 This elementary school has a free and reduced lunch rate of 39%.  It is in the Mehlville school district.  
+	 Sappington elementary has about a 32% free and reduced lunch
+	 This elementary school in Jefferson County has a free and reduced lunch rate of 51%.
+	 This elementary school in the Fox school district has a 52% free and reduced lunch rate.  They are mostly homeowners , not renters, who are going to need some assistance to meet their needs.
+	 Murphy Elementary in the Northwest SD has nearly 45% free and reduced lunches.   Many families that live in this community will likely need help with healthcare, childcare, and maybe housing.  Accessible low cost groceries would be needed or perhaps many have vegetable gardens to help get healthy food.  Most of the area are home owners and not renters. 
+	 Cedar Springs Elementary in the Northwest SD has 31% free and reduced lunches.  Many families that live in this community will likely need help with healthcare, childcare, and maybe housing.  Accessible low cost groceries would be needed or perhaps many have vegetable gardens to help get healthy food.  Most of the area are home owners and not renters.  This elementary school has the lowest % of free and reduced lunches in the SD.  Assistance with this map came from Peggy Robb.
+
+	 House Springs Elementary in the Northwest SD has 37% free and reduced lunches.  Of all the elementary schools in the NW SD this school is the most in a town closer to more businesses.  It may be a reason that this has a lower % reduced lunches.  Still, many families that live in this community will likely need help with healthcare, childcare, and maybe housing.  Accessible low cost groceries help families.  House Springs has a farmers market much of the year.  Most of the area are home owners and not renters. 
+
+	 Maple Grove Elementary in the Northwest SD has 48% free and reduced lunches.  Many families that live in this community will likely need help with healthcare, childcare, and maybe housing.  Accessible low cost groceries would be needed or perhaps many have vegetable gardens to help get healthy food.  Most of the area are home owners and not renters.   This is the area of the Northwest SD that is in Senate Dist 3.
+
+	 Gotsch intermediate school has about 30% of students that qualify for free and reduced lunches.  Many of these families will need extra resources to be able to care for their families.
+	 High Ridge Elementary in the Northwest SD has 48% free and reduced lunches.
+Many families that live in this community will likely need help with healthcare, childcare, and maybe housing.  Accessible low cost groceries would be needed or perhaps many have vegetable gardens to help get healthy food.  Most of the area are home owners and not renters.  Assistance with this map came from Peggy Robb.
+
+
+Cluster 5, #9 Elements 
+	 This area is comprised of residents within the boundaries of the city of St. Louis, Missouri; the residents of this community collectively utilize and support a school system, public safety, public transportation, city utilities, political/legislative functions, etc. 
+	 This map includes the 116,000 residents of the Greater South County area who share a lot of commonalities. They share neighboring school districts which gives them a shared interest in the education of their children. The majority of the residents are working middle class homeowners which gives them the same sort of economic issues to deal with. They also share the experience of being close to both the St Louis metro area and a variety of rich Missouri natural areas which lends a unique experience of a snapshot of everything Missouri has to offer. 
+	 This community centers on the University of Missouri campus. Many of its residents are students and/or employees of the university. Infrastructure, higher education funding, and public transit are primary concerns.
+	 This is a community that the city of St. Louis has historically deemed as unimportant or not worth saving. It is made up of  people who are trying to renew their communities.
+
+	 This map is the western half of Jefferson City Mo and is designed around the Capital City High School, district. Splitting the district into two halves was a significant change in the community as it was one of the biggest city projects in decades, it has drastically altered the land scape of Jefferson City and its infrastructure. The west end now encompasses far more communities on the outskirts of the city and thus more people have a stake in the happenings within the city limit. As the school district now extends out into center town Missouri. About half an hour out. Thus, investing in the roads and highway system is a critical issue for these communities. As well is flood protections being that the community travels along the river. 
+	 This is a map of an area of Southwest St. Louis County that the people have similar  concern, care and pride in their communities, and their school districts. They participate and support their community functions and  festivals.
+	 Saint Louis can be (IMO) roughly divided into a few large areas. Downtown, South City, The Central Corridor, and North City. This is South City.
+	 This community runs into infrastructure issues as far as sewer backflow into their basements. Many residents work for the University of Missouri and a couple are current or former local business owners, along with many working Millennial households. 
+	 St. Louis and its surrounding counties share institutions, cultural events, and economic engines. People commute for work, school and recreation within this area, further knitting it together.
+
+Cluster 6, #9 Elements 
+	 Communities without easy access to Grocery Stores
+	 Communities with easy access to Grocery Stores
+	 Communities without easy access to Pharmacies
+	 Communities with easy access to Pharmacies
+	 Communities with easy access to childcare facilities
+	 Communities without easy access to Public Parks
+	 Communities with easy access to Public Parks
+	 This is an area with ample outdoor space for children and adults alike. I see familiar people almost anytime I venture outside. The grocery store is frequented by neighborhood residents and is the kind of place where cashiers recognize me and my family. This community is walkable and boasts numerous local shops and restaurants.
+	 Communities with easy access to Conservation Areas
+
+Cluster 7, #8 Elements 
+	 Renter heavy (42%), large percentage of Asian American (10%) families who are concerned about schools, taxes. Residents also concerned about pollution. 
+	 white people 55.29%
+Black people 41.6%
+hispanic 1,1% 
+asian 0.3%
+native 0.3%
+
+socioeconomic data (2018)
+60% homeowners
+40% renters 
+	 Immigrants, renters, low-income. concerned about racism, tenant rights.
+	 People with low income and high percentage of families in rented homes
+	 11.54 % black
+40% white
+45 % hispanic
+50% renters
+50% home owners
+	 A naturally occurring retirement community as recognized by the federal government composed of 41% renters. The district also has a substantial portion of (around 10% each) Blacks and Asian Americans. Interests include accessibility to medical services, healthcare, transportation.
+	 middle to upper income, mostly homeowners. Concerns include education (both public K-12 and university), climate change, recycling, and gun violence.
+	 3/4 Homeowners, rough boundary of Parkway Schools. about 1/11 residents are Asian American. Concerned about schools and taxes. 
+
+Cluster 8, #8 Elements 
+	 Most families in this area support public education and are concerned about charter schools. Districts include Webster Groves, Kirkwood, Clayton, University City and Maplewood. Legislative Advocacy Committee members believe good schools in these districts support high property values. Residents share concern about availability of quality child care. Shortage of affordable housing is a growing concern in this area.
+	 Kirkwood & Webster Groves School Districts
+	 In this area, people rely predominantly on public schools and care a lot about quality public schools, and invest a great deal of resources into their public schools.
+	 I used to teach in the Slater School District. 
+
+Lack of funding for the schools and teachers is a big problem in the district.
+
+A high number of students are from families with low incomes. All kids up through junior high get free breakfast and lunch.
+
+Slater has a good sports program and good education for a town this size.
+
+Students who live outside the city limits of Slater can attend Marshall schools if they choose.
+	 Webster Groves School District in St. Louis County.  High percent of families send their children to the public school.  The community also shares critical infrastructure including Highway 44 and major arterials including Brentwood Blvd, Watson, and Big Bend Blvd.
+	 The Kirkwood School District encompasses the municipalities of Kirkwood, Des Peres, Oakland and Glendale. It is currently split between two Senate Districts - SD 15 and SD 1. Housing is much sought after. Smaller homes are often bought and demolished to build new, bigger homes on the lots. Generally affluent, but with differences of income. Some extremely wealthy pockets and some more modest homes. There are two middle schools, which bisect the district. The district is mostly to the east of 270. Neighboring communities are Crestwood, Frontenac and Warson Woods. 
+	 Middle to affluent single family homes who are mostly homeowners. Concern but less investment in public schools.  Concern about property values, crime, and basic city services.  Some concern about the impact of Washington U on the community and state of the commercial corridor.
+	 The Kansas City School District serves the youth of the Greater Kansas City area. They have a superintendent and a duly elected School Board that represents the welfare of the community and student body. The issues of public, public charter, and charter education is a contentious issue in Kansas City. 
+
+Cluster 9, #6 Elements 
+	 The highlighted area includes the neighborhoods of Tower Grove Heights, Tower Grove East, Southwest Garden, Shaw and parts of broader Tower Grove South. Residents in these areas use Tower Grove Park and the MO Botanical Garden as their backyards - renters and homeowners, immigrants and people born in the US.  Accessibility and safety for pedestrian & bike traffic is important to most people. 
+	 The neighborhoods around Tower Grove Park share histories, shopping districts and regular cultural festivals.
+	 This area is comprised of neighbors adjacent to Tower Grove Park , who are most likely to frequent it for recreation with their families to form social connections. 
+	 This is a community centered around Tower Grove Park and the South Grand Business district. People here use the park regularly and many are younger families. Most would utilize the South Grand business district for meals.  
+	 - Diverse area with people from all racial, socioeconomic, sexual orientations, ages
+- Living by the Botanical Gardens & Tower Grove Park we have a lot of visitors from around the state & even out of state.
+- Some of the highest city voter turnout in my neighborhood (Ward 8) and across Tower Grove Park (Ward 15)
+- Very Civic minded residents; active in the community. 
+- Home values have consistently risen over 20 years
+- 
+	 Wealthier section bordering tower grove park
+
+Cluster 10, #5 Elements 
+	 Oakville community of mostly home-owners and support the Oakville School system within the greater Mehlville School District. These citizens share the main Telegraph corridor caring for the businesses and transportation maintenance.
+	 All residents are in the Mehlville School District. Oakville Elementary is the public elementary school, although many families attend St. Francis for church and school. Mostly middle-class - mostly home owners, families and a lot of kids, as well as senior citizens. The bus runs along Telegraph, but most people drive their cars.
+	 Oakville High School.   The Mehlville School district is divided into two high schools.  Oakville HS  is more in Dist 1.    This community a bedroom community with no major interstate highways crossing the boundary.  Their rival within the same school district has more retail industry.  Oakville HS which is mostly in Dist 1.
+
+	 Mehlville High School. The Mehlville School district is divided into two high schools.  Mehlville HS  is fairly evenly divided between Dist 15 and 1.   This community is crossed by two major roadways I55 and I270/I255.  This community is less of a bedroom community than their rival within the same school district, Oakville HS which is mostly in Dist 1.
+	 This community is comprised of the Mehlville School District with larger immigrant populations to the north.  The northern most areas have more home renters with home owners to the south.  Socioeconomics also change dramatically from the north to the south with more families relying on hourly wage employment to the north.  Most of the markets and grocery stores are located in the southern area as well.  
+
+Cluster 11, #5 Elements 
+	 One of the most walkable communities in kansas city, but could still be better. Besides the main street bus public transit leaves a lot to be desired. With climate change, public transit is the future! 
+	 Commuter community. Most local jobs are with the school district, retirement homes, and low-wage in retail and restaurants. Population growth due to educational opportunities in a public school system.  Good access to healthcare and amenities due to proximity to KC metro. Shortage of rental property. Traffic flow becoming an issue as infrastructure hasn't kept up with population growth. 
+	 This community of 33.590, which includes a mix of retirees, families with children and young professionals, prides itself on home ownership and beautification and strong public involvement. While rental properties are concentrated in the southern tracts, my canvassing makes it clear that the renters share community interests. They include close attention  to state and local issues, as evidenced by strong turnouts at town hall and community meetings hosted by elected officials and community leaders. Infrastructure is a major issue because broken sidewalks or no sidewalks proliferate, and potholes appear regularly on the streets. There is intense interest in public, charter and private education and close attention to the Kansas City Public School District, even from neighbors who don't have children there. A committed group of parents worked hard for the reopening of a public K-5 school a few years ago and it has been a huge success. There is strong advocacy for good public transit and strong support for the extension of the downtown trolley line, which will now extend to the University of Missouri-Kansas City. Many educators and graduates of this this four-year school live in the community. The Trolley Trail, which runs the length of the map, is popular among runners, joggers, walkers, bicyclists and dog walkers. Faith is important as houses of worship of several religions and denominations are represented.  Residents would like the state Legislature to be more considerate of urban problems, such as gun violence, health care, lack of affordable housing and the need for local control of the Kansas City Police Department.  
+	 This is the Northland Area of Kansas City, Mo.
+The areas about the Northland that concern me are about transportation and bike paths.
+Even though there are bike paths in various areas of the northland, there are many subdivisions that do not have easy access to the bike paths because of large hills, traffic and no access paths. 
+Ford is a large employer in the area, and there is no way to safely ride a bicycle to work as there are no safe access paths to the Ford Plant.
+Also, transportation (busses) do not operate frequently on Sundays, enabling Northlanders to travel to the downtown areas.
+North Kansas City has no food markets in its downtown area.
+	 This part of KC is a very low-income community and majority minority. There is much less investment from the city in this area and you can see it in how it starkly contrasts with other parts of the city. Other neighborhoods have nice parks and nice streets (even in the winter) while our parks and roads are not maintained. And our school district is really struggling. While our schools close down here, the city puts money towards building apartments that are pricing people out of the community. People here struggle high rent and landlords who refuse to make repairs and upkeep their properties. 
+
+Cluster 12, #5 Elements 
+	 Brookside is a vibrant and welcoming community in south Kansas City. The majority of the community owns their home and are middle to upper-class individuals. The Brookside community is active in the community as well and host an annual art expo. The Brookside community and their neighborhood association is well organized as well. Common interests would be public education, community events, and investments into their community. 
+	 Brookside is a south Midtown community that is family oriented and invested in local small businesses. Many people in this community are business owners or entrepreneurs. Common concerns are being a safe place to walk or bike, and being able to work with neighbors on non-profit efforts to increase equity and help children. 
+	 People in the Brookside community tend to stay here. Some families have been here for two or three generations, people buy their parents homes to stay in the area or if people move, they tend to move close by. 
+Sidewalks are in disrepair in this area and repairs don't happen very quickly here. Brookside shopping area has resisted franchises to keep local business and have a hometown feel to the area.
+
+	 This district houses Kansas City's world famous Nelson-Atkins Museum of Art and the Kemper Museum of Contemporary Art. The Kansas City Art Institute also has a big student population that lives in this area. The housing prices are lower around this area before going south to the plaza. Common interests would be public investment into the arts, public safety, and the local arts community.
+	 Southmoreland is a diverse neighborhood of mid to upper income families.  Some lower income and idle, unoccupied homes do exist.  Many of these are being purchased by home flippers and are now bringing in higher income homeowners.  A few investment/ multi-family businesses own many parcels which are transient apartment dwellers.  Most of these are middle income renters that are fundamentally well settled and not loud raucous people.  This is an artful commingling of peoples; due to the presence of the Kansas City Art Institute, the Nelson Atkins Museum of Art,  the Kemper Gallery of Modern art and the near proximity to the Country Club Plaza commercial district.  Amenities here abound and create a well rounded community that is progressive, not afraid of change but is interested in historic preservation of older properties.  To protect the ongoing new developments along Main Street and Broadway this neighborhood should be established as a Local Kansas City Historic District.  This would help to alleviate the growing friction between new construction  and the older housing/ commercial building fabric of the neighborhood.   
+
+Cluster 13, #5 Elements 
+	 Columbia is defined by the school system and by the common interests of the residents, who work for employers in the community, go to school in town, and need to be served by public servants who have in mind the interests of those who live in small cities.
+	 There are residential areas closer to the city limits of Columbia, some of which are within the city boundaries. Farther out are larger tracts of farmland. Most of the area is served by the Columbia Public School system. There is no public transit that extends to this area.
+	 Columbia economic district. People in this area depend on the Columbia area for jobs, health care, etc. 
+	 Second oldest incorporated area in Columbia. Common interests include community welfare and affordable housing, diversity, and quality of life concerns. Residents tend to be students, educators, working professionals, and the un-housed. Neighborhood and adjacent areas particularly susceptible to out-of-scale high-end redevelopment. Public transit used sparingly due to proximity to various institutions and businesses.
+	 I do most of my shopping, dining out and get my healthcare in parts of Columbia.
+I also do business such as large purchases and repairs.
+
+More stores and restaurants are needed in North Columbia.
+
+Cluster 14, #5 Elements 
+	 The Kansas City community has a vibrant and resilient LGBTQ community. The LGBTQ+ community and its history have been vital to the progress of Kansas City. The areas highlighted have LGBTQ+ spaces, establishments, and/or centers that are important to the LGBTQ+  community. It's important that this community continue to have representation at all levels of government, especially those who are Black and LGBTQ+. 
+	 This community sits just West of Downtown Kansas City, and has many diverse residents, including Hispanic, Black and White citizens.
+	 This area is diverse racially and also age-wise. Being so close to two of KC's universities, we have a lot of students mixed in with long-time residents of the neighborhood. This area is comprised of multiple neighborhoods who work together in a coalition (ex: running a tool share program). Something people in this community share in common are progressive values and prioritizing human rights (i.e. supporting Black Lives Matter movement and LGBTQ rights). A concern of the neighborhood is that developers are buying up properties that are going up for sale which could lead to residents of this community getting priced out.  
+	 This is part of Kansas City is home to me in more than one sense of the word--this area has a community with a culture I connect to. The people here look like me and share the same values. 
+
+Things in my community haven't changed much over the close to 60 years I've lived here and yet have. The area between Troost and Hwy 435 is historically where Black people in Kansas City were confined to due to segregationist housing policies. Still today, Kansas City is racially divided and the East Side is the largest and most central Black community in the city. However, when Black people were allowed to move south of 27th street, our community experienced a dispersement as Black people were lured into the suburbs (and away from themselves) by promises of better schools and safer communities. 
+
+This area has a long legacy of community leaders and we need the city, county, and state governments to start listening to us. Back when I worked for the city planning department, there was an initiative for neighborhoods to make their own neighborhood plans and submit those to the city. While white, affluent communities got what they asked for, Black and poor communities were brushed off. As a result, neighborhoods on the East Side have largely had to get what we need and want for ourselves (And we have! Drive down 51st St and you'll find speed bumps that the community organized to put in after 20 years of asking the city). 
+	 Important: good paying jobs, affordable housing, education, parks, healthcare that is welcoming and inclusive of diverse populations, especially LGBTQ folks. 
+
+Cluster 15, #5 Elements 
+	 Lindbergh School District includes the communities of Crestwood & Sunset Hills and abuts Kirkwood and Webster Groves. Lindbergh Road is the main artery through the area. There has been a lot of political turmoil around the now demolished Crestwood Mall, which used to be a community focal point and source of revenue. Housing values in the Lindbergh School District are very inflated right now. There are a variety of different socio-economic neighborhoods - apartment complexes, single family homes and new, large single family construction. Most of the housing stock is mid 20th Century. 
+	 These folks all live within the Lindbergh School District. The district is the main reason people buy homes and raise families in this area. Ensuring that this group has unified representation is critical to securing the long-term health of the district and the families and children that rely on it. 
+	 Crestwood has 12,000 residents and is surrounded by larger municipalities like Webster Groves and Kirkwood and tiny ones like Marlborough and Grantwood Village. All of Crestwood is in the Lindbergh School District. The median household income is $54,000.00. It is definitely a town in transition as many senior citizens are selling, moving or dying. There are many young families with children. 
+	 This is a community of Webster Groves, Kirkwood,  Crestwood and Glendale. We all use the shopping areas around Lindbergh and 44 and our communities have smaller independent businesses as well. Kirkwood and Webster share a sports rivalry. All the cities are along the railway and use the Kirkwood Amtrak station. Each community has a mixture of old historic homes and more recent developments. 
+	 Green Park is in the Lindbergh School District, which is a draw for many families with kids. Mostly single family homes. There are many businesses on Lindbergh Blvd. further north in Affton. Green Park has its own industrial park and is very self-sufficient. 
+
+Cluster 16, #5 Elements 
+	 flood prone area in south STL county and Northern Jefferson County.  Streets have been closed for months at a time due to back up of Mississippi river.  Short-term flooding for days due to local and nearby heavy rain.  All these areas greatly affected by upstream levies as well.
+	 This community in Jefferson County is all along the Mississippi river and must deal with the flooding.  It is divided into two Senate districts  22 and 3.  Small towns close to the river get much damage from the floods.  Assistance from former Jefferson County resident, Chris Honse.
+	 Rural areas of St Charles County, in areas not subject to flooding from major rivers. Primarily wooded and undeveloped.
+	 Rural areas of St Charles County, some areas subject to flooding. Primarily farmland and other agricultural use
+	 Towns like Bowling Green, Eolia, Clarksville and Lousiana rely on larger communities in Lincoln County for employment and shopping needs. Rivertowns like Elsberry and Winsfield are quite similar to Clarksville or Louisiana, and share a concern about flooding along the Mississippi. Some institutions (Pike-Lincoln Technical Institute) serve the whole area.

@@ -1,0 +1,203 @@
+numrows=  808
+num entries =  808
+Encode the corpus. This might take a while
+Start clustering
+Clustering done after 0.07 sec
+This clustering was done without ignoring duplicate sentences. 
+Cluster 1, #137 Elements 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+
+Cluster 2, #9 Elements 
+	 This community is a diverse community of adults, children, and the elderly. It is also diverse racially and ethnically. Class wise, this community is mainly composed of working class individuals, service workers, and those that work minimum and low wage jobs. Since many inhabitants are working class workers, many are only able to rent opposed to owning property. #mojwj 
+	 Mixed-income community that is predominantly working-class. Community concerns include lack of public transport, green space, and diversified amenities that are accessible and affordable to the working-class community who lives here. 
+	 Mixed-income community that is predominantly working-class. Community concerns include lack of public transport, green space, and diversified amenities that are accessible and affordable to the working-class community who lives here. 
+	 This community area straddles the city's dividing lines and is varied demographically in terms of race, income, and percentage of renters:owners. Overall, the community has smaller households--there are many single adults living with partners or roommates. There also is an increase of elementary-aged children in the area, indicating that young families are settling here. 
+There are many single parents living in the community, so access to childcare and family-oriented activities are important to people here. Access to mental health care and community involvement/advocacy are also important to people in this area. 
+
+	 There is growing diversity in this community.  The area is growing in population significantly.  It is a generally middle class area with some working-class people as well.  Most of the housing growth has been driven by apartments or retirement housing.
+	 It's a mix of people of different ages, marital statuses, and children.  It's a very diverse place in my apartment complex.  The broader community is working-class to middle-class professionals.
+	 These are neighborhoods that are core middle class professional live in. Some parts have a large community of children/school aged adolescents. Many of the people that live in this area are young adults that have recently graduated college or are in the early years of their careers. This area is not composed of mainly working class young adults but adults that work in corporate or professional fields. They are also mainly renters since there aren't as many single family homes in this area. There are mainly apartment complexes and other available rentals #mojwj
+	 A community with a diverse array of housing types (rental apartments, condos, single family houses, large historic houses), green spaces, artistic centers, and some businesses. The population seems to range from unhoused, struggling young people to wealthy professionals, with every category in between.
+	 It is an economically mixed community of mostly working people.  The neighborhood is chaning and there are more progressive people moving in.
+
+Cluster 3, #8 Elements 
+	 On a macro level, all of these places are areas that I would consider to be a part of Springfield and its broader community/metropolitan. The population of each of the highlighted cities outside of Springfield interacts with Springfield in many important ways. They work in Springfield, they go to Springfield for entertainment, they all use the Springfield hospital system, the schools interact really closely, many of the students of the surrounding areas hang out in Springfield, etc... Springfield is so sprawled out that, if anything, the surrounding cities almost just feel like Springfield suburbs. None of them are typically more than a 20 minute drive out.
+	 This area emcompasses a portion of the Springfield School District, a portion of Springfield and a surrounding rural area.  The school is in a more isolated area.  Residents have larger lots but most work in Springfield.
+	 My home, many of my friends, my children's schools, church, work, and most of the places I go for shopping or entertainment are located in the map area, all primarily in central Springfield.  This area contains some of the most important cultural amenities, the two largest hospital systems, and some of the oldest neighborhoods in the city, many of which are historically strong or recently revitalizing.  Many of the city's most engaged neighborhood associations are active in this area. There are some significant social class distinctions, but there seems to be a fairly strong central city identity.  The population here is diverse.   
+ 
+	 Suburban, mostly single-family homes; mostly homeowners' middle- and professional-class. Springfield addresses but outside Springfield city limits--residents here are affected by Springfield politics but can't vote in Springfield elections (can vote for school board). Main issues: public schools, employment, transportation infrastructure (roads)
+	 South-side-ish Springfield, this includes our home, our retail area with both franchises, chain, and small businesses, outdoor space and parks with green space and community emphasis on outdoor activities such as bike trails, running trails, and includes access to our hospitals - it feels like a good combination of suburban/urban.
+	 People who live and work in these areas are connected strongly to the Springfield downtown area. There are numerous community events that happen in the vicinity that people are able to walk to that really binds the area together. Some of these are ArtsFest, Events on the Square, Cider Days, and MSU Events. In addition there are a lot of eateries in these areas that we all frequent. While other people will drive in the close connection with these businesses and events drives people into wanting to live and work in these locations.  
+	 People living in the greater Springfield area with similar interests.
+	 These neighborhoods have a high concentration of senior housing, mostly rental units. The Southside Senior Center services this area. Springfield has a high population of senior citizens. The biggest employers in Springfield are the medical industries.  Seniors are concerned about health care issues, prescription drug costs, and access to health care facilities. 
+
+Cluster 4, #7 Elements 
+	 The population was 525 at the 2010 census.
+	 The population was 475 at the 2010 census.
+	 The population was 328 at the 2010 census
+	 The population was 505 at the 2010 census.
+	 The population was 3,075 at the 2010 census.
+	 The 2010 census showed the city's population to be 52,575
+	 The population was 522 at the 2010 census. 
+
+Cluster 5, #5 Elements 
+	 30% of kids at Crestwood Elementary get free and reduced lunches.
+	 This elementary school in Fenton is in the Rockwood school district and has a free and reduced lunch rate of 29%. 
+	 This elementary school has a free and reduced lunch rate of 39%.  It is in the Mehlville school district.  
+	 Sappington elementary has about a 32% free and reduced lunch
+	 This elementary school in Jefferson County has a free and reduced lunch rate of 51%.
+
+Cluster 6, #5 Elements 
+	 Murphy Elementary in the Northwest SD has nearly 45% free and reduced lunches.   Many families that live in this community will likely need help with healthcare, childcare, and maybe housing.  Accessible low cost groceries would be needed or perhaps many have vegetable gardens to help get healthy food.  Most of the area are home owners and not renters. 
+	 Maple Grove Elementary in the Northwest SD has 48% free and reduced lunches.  Many families that live in this community will likely need help with healthcare, childcare, and maybe housing.  Accessible low cost groceries would be needed or perhaps many have vegetable gardens to help get healthy food.  Most of the area are home owners and not renters.   This is the area of the Northwest SD that is in Senate Dist 3.
+
+	 High Ridge Elementary in the Northwest SD has 48% free and reduced lunches.
+Many families that live in this community will likely need help with healthcare, childcare, and maybe housing.  Accessible low cost groceries would be needed or perhaps many have vegetable gardens to help get healthy food.  Most of the area are home owners and not renters.  Assistance with this map came from Peggy Robb.
+
+	 Cedar Springs Elementary in the Northwest SD has 31% free and reduced lunches.  Many families that live in this community will likely need help with healthcare, childcare, and maybe housing.  Accessible low cost groceries would be needed or perhaps many have vegetable gardens to help get healthy food.  Most of the area are home owners and not renters.  This elementary school has the lowest % of free and reduced lunches in the SD.  Assistance with this map came from Peggy Robb.
+
+	 House Springs Elementary in the Northwest SD has 37% free and reduced lunches.  Of all the elementary schools in the NW SD this school is the most in a town closer to more businesses.  It may be a reason that this has a lower % reduced lunches.  Still, many families that live in this community will likely need help with healthcare, childcare, and maybe housing.  Accessible low cost groceries help families.  House Springs has a farmers market much of the year.  Most of the area are home owners and not renters. 
+
+
+Cluster 7, #5 Elements 
+	 Communities without easy access to Pharmacies
+	 Communities with easy access to Pharmacies
+	 Communities without easy access to Medical Facilities
+	 Communities with easy access to Medical Facilities
+	 Communities without easy access to Grocery Stores
