@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/static/style.css" />
+    </head>
+
+    <body>
+        
+        <header class="header">
+
+            <nav class="navigation-menu">
+
+                <ul class="navigation-btns">
+
+
+                    <li class="dropdown">
+                        <form enctype="multipart/form-data" onsubmit="return false;" class="file-upload">
+                            <input type='file' id="file" name="static_file" />
+                            <button class="nav-btn nav-btn-upload" id="upload-button"
+                                onclick="uploadFile(this.form)">Upload</button>
+                        </form>
+                    </li>
+
+
+
+                    <button id="showdata" class="showdata nav-btn">Show Data</button>
+
+                    
+                    
+                    
+                    <li class="dropdown">
+                        <button class="nav-btn">Preprocessing</button>
+                        <ul id="preprocessing" class="dropdown-menu btn-inner-preprocess">
+                            <li class="dropdown-content" id="drop-null"><button class="nav-btn-inner">Drop null</button></li>
+                            <li class="dropdown-content" id="drop-column"><button class="nav-btn-inner">Drop column</button></li>
+                            <li class="dropdown-content" id="encode-columns"><button class="nav-btn-inner">Encode columns</button></li>
+                            <li class="dropdown-content" id="replace-values"><button class="nav-btn-inner">Replace values</button></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <button class="nav-btn">Clustering</button>
+                        <ul class="btn-inner-cluster dropdown-menu" id="cluster">
+                            <li class="dropdown-content" id="k_means"><button class="nav-btn-inner">K-Means Clustering</button></li>
+                            <li class="dropdown-content" id="fast_clustering"><button class="nav-btn-inner">Fast Clustering</button></li>
+                        </ul>
+                    </li>        
+                    <li class="dropdown">
+                        <button class="nav-btn">Train</button>
+                        <ul class="btn-inner-train dropdown-menu" id="train">
+                            <li class="dropdown-content" id="linear_regression"><button class="nav-btn-inner">Linear regression</button></li>
+                            <li class="dropdown-content" id="logistic_regression"><button class="nav-btn-inner">Logistic regression</button></li>
+                            <li class="dropdown-content" id="naive_bayes"><button class="nav-btn-inner">Naive Bayes</button></li>
+                            <li class="dropdown-content" id="svc"><button class="nav-btn-inner">Support Vector Classifier</button></li>
+                        </ul>
+                    </li>
+                            
+                    <li class="dropdown">
+                        <button class="nav-btn">Data Info</button>
+                        <ul class="dropdown-menu" id="data-info">
+                            <li class="dropdown-content" id="describe"><button class="nav-btn-inner">Describe</button></li>
+                        </ul>
+                    </li>
+                            
+                            
+                    <li class="dropdown"> <!---->
+                        <button class="nav-btn">Graphs</button>
+                        <ul class="dropdown-menu" id="graphs">
+                            <li class="dropdown-content" id="heatmap"><a class="nav-btn-inner" href="{{url_for('graph')}}">HeatMap</a></li>
+                            <li class="dropdown-content" id="isnull"><a class="nav-btn-inner" href="{{url_for('graph2')}}">Is null</a></li>
+                        </ul>
+                    </li> <!---->
+                            
+                    <button id="get-code" class="nav-btn">Get code</button>
+                            
+                    <div class="error">
+                        <p>Error:  <strong id="display-error"></strong></p>
+                    </div>
+                   
+                    <div class="clustrs">
+                        <p>Clusters: </p>
+                    </div>
+                            
+                            
+                </ul>
+                        
+            </nav>
+                    
+        </header>
+                
+                
+        <div class="modal" id="train-form">
+            <div class="modal-content-train">
+                <div class="modal-header">
+                    <p>Train model</p>
+                    <div class="close-modal">&times;</div>
+                </div>
+                <form class="form train-form">
+    
+                    <form>
+                        <div class="multiselect">
+                          <div class="selectBox" onclick="showCheckboxes()">
+                            <select class="train-select">
+                              <option>Select Input Features</option>
+                            </select>
+    
+                            <div class="overSelect"></div>
+                          </div>
+                          <div id="checkboxes"><!-- Values comes here --></div>
+                        </div>
+                        <div class="multiselect">
+                          <div class="selectBox" onclick="showRadioboxes()">
+                            <select class="train-select1" >
+                              <option>Select Output Feature</option>
+                            </select>
+    
+                            <div class="overSelect"></div>
+                          </div>
+                          <div id="radiobuttons"><!-- Values comes here --></div>
+                        </div>
+                        <input type="text" class="form-input" id="test-size" placeholder="test size">
+                    </form>
+                     <div style="text-align:center">
+                        <button  class="form-btn" id="train-btn">Submit</button>
+                      </div>
+                </form>
+    
+            </div>
+        </div>
+
+        <div class="modal" id="cluster-form">
+            <div class="modal-content-cluster">
+                <div class="modal-header">
+                    <p>Clustering Technique</p>
+                    <div class="close-modal">&times;</div>
+                </div>
+                <form class="form cluster-form">
+    
+                    <form class="form sim-size">
+                        <p>Fast Clustering</p>
+                        <input type="text" class="form-input" id="sim-thresh" placeholder="similarity threshold">
+                        <p>K-Means</p>
+                        <input type="text" class="form-input" id="cluster-size" placeholder="cluster size">
+                    </form>
+                     <div style="text-align:center">
+                        <button  class="form-btn" id="cluster-btn">Submit</button>
+                      </div>
+                </form>
+    
+            </div>
+        </div>
+
+
+
+        <div class="modal" id="dropcolumn-form">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <p>Drop column</p>
+                    <div class="close-modal">&times;</div>
+                </div>
+                <form class="form dropcolumn-form">
+                    <input type="text" class="form-input" id="column-name">
+                    <p class="form-btn" id="dropcolumn-btn">Submit</p>
+                </form>
+            </div>
+        </div>
+
+
+
+        <div class="modal" id="encode-form">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <p>Encode columns</p>
+                    <div class="close-modal">&times;</div>
+                </div>
+                <form class="form encode-form">
+                    <div class="column-category-form">
+                        <label class="column-category-label" for="column-category-select">Select column type: </label>
+                        <select class="column-category" id="column-category-select">
+                            <option value="same-index">same index</option>
+                            <option value="multi-index">multi index</option>
+                        </select>
+                    </div>
+                    <input type="text" class="form-input" id="column" placeholder=" column name">
+                    <p class="form-btn" id="encode-btn">Submit</p>
+                </form>
+            </div>
+        </div>
+
+
+        <div class="modal" id="replace-form">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <p>Replace NaNs</p>
+                    <div class="close-modal">&times;</div>
+                </div>
+                <form class="form replace-form">
+                    <div class="replace-form-column">
+                        <label class="replace-form-label" for="value">Select columns</label>
+                        <input type="text" class="form-input replace-input" id="replace-null-value-column" value="All">
+                    </div>
+                    <div class="replace-form-value">
+                        <p>Replace with:</p>
+                        <select id="replace-with-value" class="replace-with-value">
+                            <option value="mean">Mean</option>
+                            <option value="median">Median</option>
+                            <option value="mode">Mode</option>
+                            <option value="other-value" id="other-value">Other value</option>
+                            <input type="text" class="form-input replace-num-value" id="replace-num-value">
+                        </select>
+                    </div>
+                    <p class="form-btn" id="replace-btn">Submit</p>
+                </form>
+            </div>
+        </div>
+
+
+
+
+
+
+        <section class="main-display">
+
+            {% block content %}
+            
+            {% endblock %}
+            
+            <section class="section-code">
+                <div id="display-code"></div>
+            </section>
+
+            <section class="section-table">
+                <div id="display-data"></div>
+            </section>
+
+        </section>
+
+
+
+
+
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+        <script src="../static/script.js"> </script>
+
+
+    </body>
+
+
+</html>
